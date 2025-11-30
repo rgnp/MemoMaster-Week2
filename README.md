@@ -42,7 +42,7 @@
 
 ### **1\. 克隆仓库**
 
-git clone \[https://github.com/你的用户名/MemoMaster-Week2.git\](https://github.com/你的用户名/MemoMaster-Week2.git)  
+git clone \[https://github.com/rgnp/MemoMaster-Week2.git\](https://github.com/rgnp/MemoMaster-Week2.git)  
 cd MemoMaster-Week2
 
 ### **2\. 安装依赖**
