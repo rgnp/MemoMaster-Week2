@@ -43,18 +43,18 @@
 ### **1\. 克隆仓库**
 
 ```bash
-git clone \[https://github.com/rgnp/MemoMaster-Week2.git\](https://github.com/rgnp/MemoMaster-Week2.git)  
+git clone https://github.com/rgnp/MemoMaster-Week2.git
 cd MemoMaster-Week2
 ```
 
 ### **2\. 安装依赖**
 
 ```bash
-\# 建议使用虚拟环境  
-python \-m venv .venv  
-source .venv/bin/activate  \# Windows: .venv\\Scripts\\activate
+# 建议使用虚拟环境  
+python -m venv .venv  
+source .venv/bin/activate 
 
-pip install \-r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### **3\. 配置密钥 (可选)**
@@ -62,9 +62,9 @@ pip install \-r requirements.txt
 创建 .env 文件：
 
 ```
-GROQ\_API\_KEY=gsk\_xxxxxxxxxxxx  
-DEEPSEEK\_API\_KEY=sk-xxxxxxxxxxxx  
-DEEPSEEK\_BASE\_URL=\[https://api.deepseek.com\](https://api.deepseek.com)
+GROQ_API_KEY=gsk_xxxxxxxxxxxx  
+DEEPSEEK_API_KEY=sk-xxxxxxxxxxxx  
+DEEPSEEK_BASE_URL=https://api.deepseek.com
 ```
 
 ### **4\. 运行应用**
